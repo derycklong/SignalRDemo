@@ -1,0 +1,66 @@
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalRChat\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Owin.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Users\Altaf\Desktop\Members\Altaf\My Articles\SignalR Chat App\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+Z:\SignalRChat\bin\SignalRChat.dll.config
+Z:\SignalRChat\bin\SignalRChat.dll
+Z:\SignalRChat\bin\SignalRChat.pdb
+Z:\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+Z:\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+Z:\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\SignalRChat\bin\Microsoft.Owin.dll
+Z:\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\SignalRChat\bin\Microsoft.Owin.Security.dll
+Z:\SignalRChat\bin\Newtonsoft.Json.dll
+Z:\SignalRChat\bin\Owin.dll
+Z:\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+Z:\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+Z:\SignalRChat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\SignalRChat\bin\Microsoft.Owin.xml
+Z:\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\SignalRChat\bin\Microsoft.Owin.Security.xml
+Z:\SignalRChat\bin\Newtonsoft.Json.xml
+Z:\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+Z:\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+Z:\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+Z:\SignalRChat\obj\Debug\SignalRChat.dll
+Z:\SignalRChat\obj\Debug\SignalRChat.pdb
